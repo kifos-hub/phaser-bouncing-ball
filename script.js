@@ -1,4 +1,4 @@
-let WIDTH = 800;
+let WIDTH = 900;
 let HEIGHT = 600;
 
 const config = {
